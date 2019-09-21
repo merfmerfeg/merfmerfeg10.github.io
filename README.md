@@ -1,5 +1,5 @@
 # Sprint-10-homework
-(merfmerfeg.github.io)
+[Сайт](https://merfmerfeg.github.io/)
 Актуальная версия проекта v 0.0.1
 
 
